@@ -1,0 +1,13 @@
+{
+  "name": "@anjanms/eslint-config",
+  "author": "anjanms",
+  "description": "Shareable ESLint Configuration",
+  "repository": "github:anjanms/eslint-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "main": "eslintrc.js",
+  "peerDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-plugin-node": "^11.1.0"
+  }
+}
